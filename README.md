@@ -1,7 +1,7 @@
 # Traffic-Sign-Recognition-Description-
 Traffic Sign Recognition using CNN
 
-raffic Sign Recognition (TSR) is a crucial component in modern driver assistance systems and autonomous vehicles.
+Traffic Sign Recognition (TSR) is a crucial component in modern driver assistance systems and autonomous vehicles.
 This project aims to automatically detect and classify traffic signs from images using Convolutional Neural Networks (CNNs).
 
 We trained the model on the German Traffic Sign Recognition Benchmark (GTSRB) dataset, which contains over 39,000 images across 43 different traffic sign categories.
